@@ -465,6 +465,42 @@
 				AAAAAAAAAAAAAAA=
 				</data>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>AppleHDA anti-pop patch #1 (credit AppleALC)</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				QcYGAEiLu2g=
+				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>Name</key>
+				<string>com.apple.driver.AppleHDA</string>
+				<key>Replace</key>
+				<data>
+				QcYGAUiLu2g=
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>AppleHDA anti-pop patch #2 (credit AppleALC)</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				QcaGQwEAAAA=
+				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>Name</key>
+				<string>com.apple.driver.AppleHDA</string>
+				<key>Replace</key>
+				<data>
+				QcaGQwEAAAE=
+				</data>
+			</dict>
 		</array>
 	</dict>
 	<key>RtVariables</key>
