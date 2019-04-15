@@ -2,8 +2,7 @@
 
 让你的G510笔记本吃上黑苹果
 
-[English](README.md) | [中文](README-CN.md)
-
+[English](README-EN.md) | [中文](README.md)
 
 ### 支持列表
 
@@ -11,7 +10,11 @@
 * ACPI补丁修复使用hotpatch方式，相关文件位于 `/CLOVER/ACPI/patched` 。
 * 远景论坛ID：39军小兵张 http://i.pcbeta.com/space-uid-4472739.html
 * 安装视频教程及效果展示：https://space.bilibili.com/414418614/video
-* 有问题可加QQ群：686848381 验证答案：ALC282
+
+
+## 发布
+
+最后发布的版本前往 [release page](https://github.com/Z39/G510-OS-X-Clover-Hotpatch/releases) 下载即可。
 
 ### 显卡
 *屏蔽独显，HD4600正常，QE/CI OK,有水波纹效果，AGPM（显卡变频）正常,修复HD4600开机第二阶段花屏、开机后鼠标卡顿、播放视频卡死机等显卡问题。
