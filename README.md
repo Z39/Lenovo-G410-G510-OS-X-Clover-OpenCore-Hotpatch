@@ -1,6 +1,6 @@
-# 联想G510安装macOS Mojave & High Sierra 使用说明
+# 联想G410&G510安装macOS Mojave & High Sierra 使用说明
 
-让你的G510笔记本吃上黑苹果
+让你的G410&G510笔记本吃上黑苹果
 
 [English](README-EN.md) | [中文](README.md)
  ![截图](Screen.png)   
