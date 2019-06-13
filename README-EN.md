@@ -4,7 +4,7 @@ Hackintosh your G410&G510 Notebook
 
 [English](README-EN.md) | [中文](README.md)
 
-* | Computer:Lenovo IdeaPad Y410P Laptop
+* | Computer:Lenovo G410&G510 Laptop
 * | CPU :Intel Core i5-4200M @ 2.50G/Intel Core i7-4700MQ @ 2.40G (Haswell )
 * | Chipset : Lenovo (Intel HM86 Chipset)
 * | Graphics :HD4600 (using Intel GPU only) 
