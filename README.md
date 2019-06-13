@@ -3,7 +3,7 @@
 让你的G410&G510笔记本吃上黑苹果
 
 [English](README-EN.md) | [中文](README.md)
- ![截图](Screen.png)   
+ ![截图](Screen.jpg)   
 ### 支持列表
 
 * 支持10.13.x 和 10.14，10.15
