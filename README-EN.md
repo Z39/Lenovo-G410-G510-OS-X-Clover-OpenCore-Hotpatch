@@ -14,6 +14,7 @@ Hackintosh your G410&G510 Notebook
 * | Bluetooth:
 
 ![Screen](Screen.jpg)   
+![Screen](Screen1.jpg)   
 ### Features
 
 * Support macOS Catalina 10.15& macOS Mojave 10.14& High Sierra 10.13

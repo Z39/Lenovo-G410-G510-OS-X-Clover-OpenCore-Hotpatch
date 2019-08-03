@@ -14,6 +14,7 @@
  * | Bluetooth:        
  
  ![截图](Screen.jpg)   
+ ![截图](Screen1.jpg)  
 
 ### 支持列表
 
