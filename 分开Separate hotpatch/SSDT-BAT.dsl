@@ -13,9 +13,9 @@ DefinitionBlock("", "SSDT", 2, "G510", "BAT", 0)
     
     
         
-    External(_SB.PCI0.LPCB.EC0, DeviceObj)
+    External(_SB.PCI0.LPCB.EC, DeviceObj)
     
-    Scope (_SB.PCI0.LPCB.EC0)
+    Scope (_SB.PCI0.LPCB.EC)
     {
         // This is an override for battery methods that access EC fields
         // larger than 8-bit.
