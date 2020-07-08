@@ -1,4 +1,4 @@
-# Lenovo G410&G510 NoteBook for macOS Catalina 10.15& macOS Mojave 10.14& High Sierra 10.13
+# Lenovo G410&G510 NoteBook for macOS Big Sur 11.0 &macOS Catalina 10.15& macOS Mojave 10.14& High Sierra 10.13
 
 Hackintosh your G410&G510 Notebook
 
@@ -17,7 +17,7 @@ Hackintosh your G410&G510 Notebook
 ![Screen](Screen1.jpg)   
 ### Features
 
-* Support macOS Catalina 10.15& macOS Mojave 10.14& High Sierra 10.13
+* Support macOS Big Sur 11.0& macOS Catalina 10.15& macOS Mojave 10.14& High Sierra 10.13
 * ACPI fixes use hotpatch; related files are located in `/CLOVER/ACPI/patched`.
 
 ### Releases
