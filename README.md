@@ -1,4 +1,4 @@
-# 联想G410&G510安装macOS 12 Monterey&macOS Big Sur 11.0 &macOS Catalina 10.15& macOS Mojave 10.14& High Sierra 10.13 使用说明
+# 联想G410&G510安装macOS 13 Ventura&macOS 12 Monterey&macOS Big Sur 11.0 &macOS Catalina 10.15& macOS Mojave 10.14& High Sierra 10.13 使用说明
 
 让你的G410&G510笔记本吃上黑苹果
 
